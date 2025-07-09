@@ -10,6 +10,6 @@
     <p>Este é um site simples e personalizável. Você pode editar o texto como quiser.</p>
 
     <!-- Link para entrar em outro site -->
-    <a href="https://www.exemplo.com" target="_blank">Clique aqui para entrar no site</a>
+    <a href="http://127.0.0.1:5500/HTML/index.html" target="_blank">Clique aqui para entrar no site</a>
 </body>
 </html>
